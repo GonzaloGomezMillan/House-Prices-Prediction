@@ -1,4 +1,4 @@
-# **What is the best machine learning model to predict the house prices?**
+# **Comparison of the performance of different models for predicting house prices**
 
 ## **Project motivation**
 The goal of this project is to compare the performance of different machine learning algorithms to predict the house prices based on a dataset provided by Kaggle.
